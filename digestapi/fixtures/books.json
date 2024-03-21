@@ -1,0 +1,68 @@
+[
+    {
+        "model": "digestapi.book",
+        "pk": 1,
+        "fields":{
+            "user_id":1,
+            "title": "The Silmarillion",
+            "author": "J.R.R. Tolkien",
+            "isbn_number": "1a1a1a",
+            "cover_image": null
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 2,
+        "fields":{
+            "user_id":1,
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "isbn_number": "2a2a2a",
+            "cover_image": null
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 3,
+        "fields":{
+            "user_id":1,
+            "title": "Fellowship of The Ring",
+            "author": "J.R.R. Tolkien",
+            "isbn_number": "3a3a3a",
+            "cover_image": null
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 4,
+        "fields":{
+            "user_id":1,
+            "title": "The Two Towers",
+            "author": "J.R.R. Tolkien",
+            "isbn_number": "4a4a4a",
+            "cover_image": null
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 5,
+        "fields":{
+            "user_id":1,
+            "title":"Return of the King",
+            "author": "J.R.R. Tolkien",
+            "isbn_number": "5a5a5a",
+            "cover_image": null
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 6,
+        "fields":{
+            "user_id":1,
+            "title": "East of Eden",
+            "author": "John Steinbeck",
+            "isbn_number": "6a6a6a",
+            "cover_image": null
+        }
+    }
+]
